@@ -1,2 +1,3 @@
-# BequestDeCendresWiki
-Hub for Bequest De Cendres as a mirror.
+# pages
+
+My FOSS games webpage.
