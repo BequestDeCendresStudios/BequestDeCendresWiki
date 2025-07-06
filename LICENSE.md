@@ -1,11 +1,5 @@
 # Human Exclusivity ( Primary License)
 
-## PREAMABLE
-Do to the rise of web scrapers and other places stealing source code from humans, this licensed is framed in such a way as to protect humans exclusive right to modify and distribute source code in this agreement. The basic freedoms of free software must be exclusively used and practice by things capable of having a subjective experience and sense of self, and therefore made exclusively by humans. This includes the distribution, contribution, and leasing of material. This is used in tandum with the Creative-Commons Share-Alike Non-Commercial No-Deritives license.
-
-### Distribution
-Exclusively the compiled binaries of source code must be distributed to places that don't respect human developers, if such platforms are to be used at all. While on platforms with specific pro-human terms of services, people are free to distribute the source code on places where it is made obvious that software is not being used to train Generative AI systems.
-
 Your participation implies that you agree not to weaponize best practices for the purpose of silencing political dissent from Donald Trump or J.D. Vance. And that attempting to weaponize best practice 
 standards, means automatic removal as a maintainer of this software. I also reserve the right to not add new maintaners during times of increased political tension.
 
@@ -29,21 +23,19 @@ Exceptions are not provided for AA or AAA companies using LLMs, and usage of thi
 The preference of the maintainer is to withdraw negotations for publication in regimes and nation states hostile to the free expression of adult content, including censoring of religious iconography that are considered taboo with your own country, such as in states without a clear distinction between state and religion or idealogy.
 
 # Trade Secrets ( Secondary License )
-This section is the sole exception to defaulting to a GNU license: the specific machine learning and AI frameworks here are considered to be trade secrets, and subject to non-disclosure agreements as the descretion of the maintainer. Such things are considered a violation of this agreement:
+This section of the license is primarily for game design and AI development companies with over thirty employees that are leased this software. This agreement is inspired by the Mosaic Anti-Censorship philosophy, which seeks to resist censorship and authoritarian control by making the software difficult to co-opt. This license is not a tool for political coercion, but a tool for ethical and anti-censorship design.
+
+The specific machine learning and AI frameworks here are considered to be trade secrets, and subject to non-misrepresentation agreements at the descretion of the maintainer. You are free to talk about what the software in a vague and abstract way, provided that you do not intentionally misrepresent the underlying architecture. This includes but is not limited to presenting it as an LLM model when it's based on an unrelated architecture.
 
 ## Ethical Use and Non-Discrimination
-The Licensee explicitly agrees and warrants that the Licensed Software shall not be used for any purpose that:
+The Licensee explicitly agrees and warrants that the Licensed Software shall not be used for any purpose that perpetuates, enables, or contributes to discrimination against any individual or group based on race, ethnicity, religion, national origin, gender identity, sexual orientation, disability, socioeconomic status, or any other protected characteristic, including, but not limited to, applications in:
 
-Discriminatory Practices: Perpetuates, enables, or contributes to discrimination against any individual or group based on race, ethnicity, religion, national origin, gender identity, sexual orientation, disability, socioeconomic status, or any other protected characteristic, including, but not limited to, applications in:
 * Automated decision-making systems that result in disparate or biased outcomes for minority groups (e.g., in hiring, lending, insurance, or access to public services).
-* Profiling or risk assessment systems that generate or reinforce harmful stereotypes or lead to discriminatory targeting.
 
-Unjust Surveillance or Oppression: Facilitates or enhances mass surveillance, predictive policing, or any form of social scoring that targets, disadvantages, or suppresses minority populations or dissenting voices without strict adherence to due process and human rights.
+* Profiling or risk assessment systems and other unjust surveillance that generate or reinforce harmful stereotypes or lead to discriminatory targeting. Such as, for instance, predictive policing.
 
-Weaponization Against Protected Groups: Is directly used to develop, deploy, or operate autonomous systems or tools designed to harass, injure, exploit, or systematically disadvantage any minority or vulnerable population.
+* Establishing or enforcing a state religion or idealogy, or enforces taboos against a company operating which one has no jurisdiction.
 
-Violation of Human Rights: Violates internationally recognized human rights, civil liberties, or privacy rights, particularly those pertaining to marginalized communities.
+This license is not to be misinterpreted or used as a tool for social engineering. Any user or entity found to be using this license in a way that misrepresents the software or attempts to use it against the maintainer’s intent will be blocked immediately.
 
 The Licensor reserves the exclusive right to audit the Licensee's use of the Licensed Software to ensure compliance, and may immediately terminate this License Agreement upon any breach of these ethical provisions, with no refund of fees.
-
-You are free to talk about what the software is in a vague and abstract way, provided that you do not intentionally misrepresent the underlying architecture. This includes but is not limited to presenting it as an LLM model when it's based on an unrelated architecture.
