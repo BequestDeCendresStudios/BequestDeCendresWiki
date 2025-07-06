@@ -28,30 +28,3 @@ This software shall not be leased for profit for those whom wish to use ot for p
 Exceptions are not provided for AA or AAA companies using LLMs, and usage of this software shall be revoked for non-compliance with this agreement. All intellectual property is exclusive to the one implementing changes on behalf of said companies.
 
 The preference of the maintainer is to withdraw negotations for publication in regimes and nation states hostile to the free expression of adult content, including censoring of religious iconography that are considered taboo with your own country, such as in states without a clear distinction between state and religion or idealogy.
-
-# Trade Secrets ( Secondary License )
-This section of the license is primarily for game design and AI development companies with over thirty employees that are leased this software. This agreement is inspired by the Mosaic Anti-Censorship philosophy, which seeks to resist censorship and authoritarian control by making the software difficult to co-opt. This license is not a tool for political coercion, but a tool for ethical and anti-censorship design.
-
-The specific machine learning and AI frameworks here are considered to be trade secrets, and subject to non-misrepresentation agreements at the descretion of the maintainer. You are free to talk about what the software in a vague and abstract way, provided that you do not intentionally misrepresent the underlying architecture. This includes but is not limited to presenting it as an LLM model when it's based on an unrelated architecture.
-
-## Ethical Use and Non-Discrimination
-The Licensee explicitly agrees and warrants that the Licensed Software shall not be used for any purpose that perpetuates, enables, or contributes to discrimination against any individual or group based on race, ethnicity, religion, national origin, gender identity, sexual orientation, disability, socioeconomic status, or any other protected characteristic, including, but not limited to, applications in:
-
-* Automated decision-making systems that result in disparate or biased outcomes for minority groups (e.g., in hiring, lending, insurance, or access to public services).
-
-* Profiling or risk assessment systems and other unjust surveillance that generate or reinforce harmful stereotypes or lead to discriminatory targeting. Such as, for instance, predictive policing.
-
-* Establishing or enforcing a state religion or idealogy, or enforces taboos ( such as coersing change in relgiious symbolism revolving around death and dark subject matter ) against a company operating on behalf of a country which one has no jurisdiction. Such as demanding that a Japanese company conform to Chinese regulations that are known to violate individual rights.
-  
-Unjust Surveillance or Oppression is defined as: Facilitating or enhancing mass predictive policing and profiling, or any form of social scoring that targets, disadvantages, or suppresses minority populations or dissenting voices without strict adherence to due process and human rights.
-
-Weaponization Against Protected Groups is defined as: Directly used to develop, deploy, or operate autonomous systems or tools designed to harass, injure, exploit, or systematically disadvantage any minority or vulnerable population.
-
-Violation of Human Rights is defined as: any entity that violates internationally recognized human rights, civil liberties, or privacy rights, particularly those pertaining to marginalized communities.
-
-## Enforcement
-This software shall not be used in applications that are subject to censorship or forced compliance with oppressive social norms, including but not limited to those imposed by authoritarian regimes or entities that violate human rights.
-
-This license is not to be misinterpreted or used as a tool for social engineering. Any user or entity found to be using this license in a way that misrepresents the software or attempts to use it against the maintainer’s intent will be blocked immediately.
-
-The Licensor reserves the exclusive right to audit the Licensee's use of the Licensed Software to ensure compliance, and may immediately terminate this License Agreement upon any breach of these ethical provisions, with no refund of fees.
