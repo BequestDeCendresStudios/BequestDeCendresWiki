@@ -1,5 +1,7 @@
 # Human Exclusivity ( Primary License)
 
+Exclusively the compiled binaries of source code must be distributed to places that don't respect human developers, if such platforms are to be used at all. While on platforms with specific pro-human terms of services, people are free to distribute the source code on places where it is made obvious that software is not being used to train Generative AI systems.
+
 Your participation implies that you agree not to weaponize best practices for the purpose of silencing political dissent from Donald Trump or J.D. Vance. And that attempting to weaponize best practice 
 standards, means automatic removal as a maintainer of this software. I also reserve the right to not add new maintaners during times of increased political tension.
 
@@ -35,6 +37,15 @@ The Licensee explicitly agrees and warrants that the Licensed Software shall not
 * Profiling or risk assessment systems and other unjust surveillance that generate or reinforce harmful stereotypes or lead to discriminatory targeting. Such as, for instance, predictive policing.
 
 * Establishing or enforcing a state religion or idealogy, or enforces taboos against a company operating which one has no jurisdiction.
+  
+Unjust Surveillance or Oppression is defined as: Facilitating or enhancing mass predictive policing and profiling, or any form of social scoring that targets, disadvantages, or suppresses minority populations or dissenting voices without strict adherence to due process and human rights.
+
+Weaponization Against Protected Groups is defined as: Directly used to develop, deploy, or operate autonomous systems or tools designed to harass, injure, exploit, or systematically disadvantage any minority or vulnerable population.
+
+Violation of Human Rights is defined as: any entity that violates internationally recognized human rights, civil liberties, or privacy rights, particularly those pertaining to marginalized communities.
+
+## Enforcement
+This software shall not be used in applications that are subject to censorship or forced compliance with oppressive social norms, including but not limited to those imposed by authoritarian regimes or entities that violate human rights
 
 This license is not to be misinterpreted or used as a tool for social engineering. Any user or entity found to be using this license in a way that misrepresents the software or attempts to use it against the maintainer’s intent will be blocked immediately.
 
