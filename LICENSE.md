@@ -1,5 +1,7 @@
 # Human Exclusivity ( Primary License)
+This section of the license applies to individual developers and small teams that aren't AA game companies.
 
+### Distribution
 Exclusively the compiled binaries of source code must be distributed to places that don't respect human developers, if such platforms are to be used at all. While on platforms with specific pro-human terms of services, people are free to distribute the source code on places where it is made obvious that software is not being used to train Generative AI systems.
 
 Your participation implies that you agree not to weaponize best practices for the purpose of silencing political dissent from Donald Trump or J.D. Vance. And that attempting to weaponize best practice 
@@ -13,6 +15,9 @@ You are not allowed to do pull requests whose main "contribution" is changing th
 Using LLMs for the purpose of contribute to this repository is considered in violation of this agreement.
 
 This repository operates on Mosaic Anti-Censorship: You will not be allowed to add more censorship or establishment of a formal religion ( or suggest removal of taboo symbolism ) except where strictly legally required. For such situations see leasing. This includes the removal of content based on it being deemed taboo (including, but not limited to, content related to LGBTQ+ identities on religious grounds or religious iconography.)
+
+### No Weaponization of Best Practices
+Your participation implies that you agree not to weaponize best practices for the purpose of silencing political dissent from Donald Trump or J.D. Vance. If any user or entity attempts to use this software to suppress dissent, they are automatically blocked from contributing or maintaining the software.
 
 ### Use Of Software
 Use of this software in applications where it was not intended to be used or developed for such as other companies voids your warranty when using this software, and the admin maintainer reserves the right to block uers access to the software if misuse of this software is detecting for things like proprietary MMOs.
@@ -36,7 +41,7 @@ The Licensee explicitly agrees and warrants that the Licensed Software shall not
 
 * Profiling or risk assessment systems and other unjust surveillance that generate or reinforce harmful stereotypes or lead to discriminatory targeting. Such as, for instance, predictive policing.
 
-* Establishing or enforcing a state religion or idealogy, or enforces taboos against a company operating which one has no jurisdiction.
+* Establishing or enforcing a state religion or idealogy, or enforces taboos ( such as coersing change in relgiious symbolism revolving around death and dark subject matter ) against a company operating on behalf of a country which one has no jurisdiction. Such as demanding that a Japanese company conform to Chinese regulations that are known to violate individual rights.
   
 Unjust Surveillance or Oppression is defined as: Facilitating or enhancing mass predictive policing and profiling, or any form of social scoring that targets, disadvantages, or suppresses minority populations or dissenting voices without strict adherence to due process and human rights.
 
@@ -45,7 +50,7 @@ Weaponization Against Protected Groups is defined as: Directly used to develop, 
 Violation of Human Rights is defined as: any entity that violates internationally recognized human rights, civil liberties, or privacy rights, particularly those pertaining to marginalized communities.
 
 ## Enforcement
-This software shall not be used in applications that are subject to censorship or forced compliance with oppressive social norms, including but not limited to those imposed by authoritarian regimes or entities that violate human rights
+This software shall not be used in applications that are subject to censorship or forced compliance with oppressive social norms, including but not limited to those imposed by authoritarian regimes or entities that violate human rights.
 
 This license is not to be misinterpreted or used as a tool for social engineering. Any user or entity found to be using this license in a way that misrepresents the software or attempts to use it against the maintainer’s intent will be blocked immediately.
 
