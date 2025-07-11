@@ -1,4 +1,4 @@
-Sitemap: https://lwflouisa.codeberg.page/
+Sitemap: https://bequestdecendresstudios.github.io/BequestDeCendresWiki/
 
 User-agent: *
 Disallow: /
